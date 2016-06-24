@@ -1,0 +1,11 @@
+.alert-success{
+    position:fixed;
+    margin-top:330px;
+    margin-left: 600px;
+    background-color:crimson;
+    color:white;
+}
+canvas{
+    margin-left: 20%;
+    margin-top: 2.5%;
+}
